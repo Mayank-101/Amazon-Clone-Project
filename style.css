@@ -252,12 +252,10 @@ ul a {
     align-items: center;
 }
 
-/* .logo {
-    background-image: url("img/amazon_logo.png");
-    background-size: cover;
+.foot-logo {
     height: 50px;
     width: 100px;
-} */
+}
 
 
 .foot-panel4 {
