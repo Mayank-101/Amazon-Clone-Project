@@ -144,7 +144,7 @@ span {
 
 /** hero section **/
 .hero-section {
-    background-image: url("Amazon-Clone-Project/img/hero_image.jpg");
+    background-image: url("img/hero_image.jpg");
     background-size: cover;
     height: 380px;
     display: flex;
