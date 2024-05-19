@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url("Amazon-Clone-Project/img/amazon_logo.png");
+    background-image: url("img/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -253,7 +253,7 @@ ul a {
 }
 
 .logo {
-    background-image: url("Amazon-Clone-Project/img/amazon_logo.png");
+    background-image: url("img/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
